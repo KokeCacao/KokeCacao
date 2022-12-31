@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://github.kokecacao.me/chenhanke.me/assets/images/deep_vocab.png" alt="Deep Vocab" width="200">
-  <br>深度单词: Deep Vocab<br>
+  <br>Deep Vocab<br>
 </h1>
 
 <h4 align="center">Most Scientific Way for Memorization</h4>
