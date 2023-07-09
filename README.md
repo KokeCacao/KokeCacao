@@ -13,11 +13,13 @@
 </p>
 
 ## What I am Working On
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kokecacao&count_private=true" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokecacao&layout=compact" height="200">
+  <a href="https://wakatime.com/@5d39136d-911d-4ceb-9dae-178d9dbef0cd"><img src="https://wakatime.com/badge/user/5d39136d-911d-4ceb-9dae-178d9dbef0cd.svg" alt="Total time coded since Jul 20 2022" /></a>
 </p>
+
+<!-- waka-box start -->
+<!-- waka-box end -->
+
 <p align="center">
   <img src="https://count.getloli.com/get/@:koke_cacao?theme=rule34">
 </p>
