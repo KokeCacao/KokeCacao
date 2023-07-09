@@ -37,7 +37,7 @@ jobs:
       - uses: actions/setup-go@v2
       - name: Clone and run waka-box
         run: |-
-          git clone https://github.com/YouEclipse/waka-box-go-public.git 
+          git clone https://github.com/KokeCacao/waka-box-go-public.git 
           cd waka-box-go-public && go build -o waka ./cmd/box/main.go
           mv ./waka ../ && cd .. && rm -rf waka-box-go-public/
 
