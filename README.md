@@ -1,17 +1,11 @@
 <h1 align="center">
-  <img src="https://kokecacao.me/static/img/katzuki.png" alt="KatUI" width="200">
-  <br>KatUI (Katzuki)<br>
+  <img src="https://kokecacao.me/static/img/katui_logo_horizontal_printed.png" alt="KatUI" width="200">
+  <br>Current Project: KatUI (Katzuki)
 </h1>
 
-<h4 align="center">... some secret project yet to be published ...</h4>
+<h4 align="center">A node/graph-based 3D content generation engine.</h4>
 
-<p align="center">
-  <a href="https://wakatime.com/@5d39136d-911d-4ceb-9dae-178d9dbef0cd"><img src="https://wakatime.com/badge/user/5d39136d-911d-4ceb-9dae-178d9dbef0cd.svg" alt="Total time coded since Jul 20 2022" /></a>
-</p>
-
-Here are some remnants of my past closed-source projects. Since I no longer have an interest in profiting from them, I have open-sourced them under GPLv3 (if no license is attached, assume GPLv3). Since a project usually involves multiple repositories, they are sorted by projects below.
-
-KatUI (2023): A node/graph-based 3D content generation engine.
+<img src="https://kokecacao.me/static/img/katzuki.png" alt="KatUI" height="30"> KatUI (2023): 
 - KatUI: the main program will be open-sourced soon!
 - [kokikit](https://github.com/KokeCacao/kokikit): 3D generation engine and toolkit for KatUI
 - [ComfyUIManager](https://github.com/KokeCacao/ComfyUIManager): All ComfyUI node support for KatUI
@@ -19,27 +13,40 @@ KatUI (2023): A node/graph-based 3D content generation engine.
 - [KatUIDiffusionBasics](https://github.com/KokeCacao/KatUIDiffusionBasics): diffusion nodes for KatUI
 - [mvdream-hf](https://github.com/KokeCacao/mvdream-hf): Huggingface implementation for MVDream used in KatUI
 
-MCStuCo (2023): Teaching-related code for 98-205 Course at CMU
-- [stucoplugin](https://github.com/KokeCacao/stucoplugin): main plugin for grading in MCStuCo
-- [SqliteWhitelist](https://github.com/KokeCacao/SqliteWhitelist): simple whitelist plugin and website sync for MCStuCo
-- [JoinItem](https://github.com/KokeCacao/JoinItem): simple skyblock default item plugin for MCStuCo skyblock server
+<br>
 
-CryptoEggs (2021): A blockchain game, a smart contract on Gnosis Chain
-- [CryptoEggs_hardhat](https://github.com/KokeCacao/CryptoEggs_hardhat): backend of CryptoEggs (blockchain-end)
-- [CryptoEggs_frontend](https://github.com/KokeCacao/CryptoEggs_frontend): frontend of CryptoEggs
+<h1 align="center">
+  <br>Past Projects
+</h1>
 
-DeepVocab (2020): A mobile app for vocabulary memorization
+<p align="center">
+  <a href="https://wakatime.com/@5d39136d-911d-4ceb-9dae-178d9dbef0cd"><img src="https://wakatime.com/badge/user/5d39136d-911d-4ceb-9dae-178d9dbef0cd.svg" alt="Total time coded since Jul 20 2022" /></a>
+</p>
+
+Here are some remnants of my past closed-source projects. Since I no longer have an interest in profiting from them, I have open-sourced them under GPLv3 (if no license is attached, assume GPLv3). Since a project usually involves multiple repositories, they are sorted by projects below.
+
+<img src="https://kokecacao.me/static/img/deep_vocab.png" alt="DeepVocab" height="30"> DeepVocab (2020): A mobile app for vocabulary memorization
 - [deep_vocab](https://github.com/KokeCacao/deep_vocab): just a README without code
 - [deep_vocab_frontend](https://github.com/KokeCacao/deep_vocab_frontend): frontend of DeepVocab
 - [deep_vocab_backend](https://github.com/KokeCacao/deep_vocab_backend): backend of DeepVocab
 - [bottom_navigation_badge](https://github.com/KokeCacao/bottom_navigation_badge): a Flutter component for DeepVocab
 
-KokiCraft (2014): A MMORPG game on Minecraft
+<img src="https://kokecacao.me/static/img/Koki-Icon-Big.png" alt="KokiCraft" height="30"> KokiCraft (2014): A MMORPG game on Minecraft
 - [GameCore](https://github.com/KokeCacao/GameCore): security engine of KokiCraft
 - [PlayerNameProtect](https://github.com/KokeCacao/PlayerNameProtect): anti-hack by file injection for KokiCraft
-- ... 90% of other code are private since they might contain hard-coded passwords and I am too lazy to clean them up ...
+- ... 90% of other code are private since they might contain sensitive information ...
 
-Smaller Projects:
+<img src="https://kokecacao.me/static/img/mcstuco.png" alt="MCStuCo" height="30"> MCStuCo (2023): Teaching-related code for 98-205 Course at CMU
+- [stucoplugin](https://github.com/KokeCacao/stucoplugin): main plugin for grading in MCStuCo
+- [SqliteWhitelist](https://github.com/KokeCacao/SqliteWhitelist): simple whitelist plugin and website sync for MCStuCo
+- [JoinItem](https://github.com/KokeCacao/JoinItem): simple skyblock default item plugin for MCStuCo skyblock server
+- ... 50% of other code are private since they might contain sensitive information ...
+
+<img src="https://kokecacao.me/static/img/cryptoegg_small.png" alt="CryptoEggs" height="30"> CryptoEggs (2021): A blockchain game, a smart contract on Gnosis Chain
+- [CryptoEggs_hardhat](https://github.com/KokeCacao/CryptoEggs_hardhat): backend of CryptoEggs (blockchain-end)
+- [CryptoEggs_frontend](https://github.com/KokeCacao/CryptoEggs_frontend): frontend of CryptoEggs
+
+<img src="https://kokecacao.me/static/img/favicon.ico" alt="Koke_Cacao" height="30"> Smaller Projects: mostly 1~3 months of efforts each
 - [2ch3](https://github.com/KokeCacao/2ch3): a experimental social media platform on Blockchain (Gnosis) as browser plugin
 - [quantum](https://github.com/KokeCacao/quantum): a quantum computer simulation written in Go
 - [RedstoneTorch](https://github.com/KokeCacao/RedstoneTorch): a Computer Vision toolkit built for competitive classification and segmentation tasks
