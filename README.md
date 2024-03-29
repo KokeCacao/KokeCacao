@@ -52,9 +52,9 @@ Here are some remnants of my past closed-source projects. Since I no longer have
 - [RedstoneTorch](https://github.com/KokeCacao/RedstoneTorch): a Computer Vision toolkit built for competitive classification and segmentation tasks
 - [ResUnet](https://github.com/KokeCacao/ResUnet): a res-unet (and many-related) architecture for competitive classification and segmentation tasks
 - [Team13813](https://github.com/KokeCacao/Team13813): competitive robotics control codebase for FIRST competition
-- [HumanProteinLocalization](https://github.com/KokeCacao/RedstoneTorch-HumanProteinLocalization)
+- [HumanProteinLocalization](https://github.com/KokeCacao/RedstoneTorch-HumanProteinLocalization): Localize proteins using CV in RedstoneTorch
 - [Hamster](https://github.com/KokeCacao/Hamster): AI self-driving with RL
-- [Kaggle Bengali AI Handwritten Grapheme Classification](https://github.com/KokeCacao/KaggleBengaliAIHandwrittenGraphemeClassification)
+- [Kaggle Bengali AI Handwritten Grapheme Classification](https://github.com/KokeCacao/KaggleBengaliAIHandwrittenGraphemeClassification): Classify Bengali Grapheme in RedstoneTorch
 - [n-body-simulation](https://github.com/KokeCacao/n-body-simulation): n-body simulation and visualization
 
 <!-- waka-box start -->
