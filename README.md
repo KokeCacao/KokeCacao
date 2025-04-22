@@ -47,6 +47,7 @@ Here are some remnants of my past closed-source projects. Since I no longer have
 - [CryptoEggs_frontend](https://github.com/KokeCacao/CryptoEggs_frontend): frontend of CryptoEggs
 
 <img src="https://kokecacao.me/static/img/favicon.ico" alt="Koke_Cacao" height="30"> Smaller Projects: mostly 1~3 months of efforts each
+- [arpapy](https://pypi.org/project/arpapy/): Multilingual text/IPA to ARPAbet G2P for text2speech generation.
 - [2ch3](https://github.com/KokeCacao/2ch3): a experimental social media platform on Blockchain (Gnosis) as browser plugin
 - [quantum](https://github.com/KokeCacao/quantum): a quantum computer simulation written in Go
 - [RedstoneTorch](https://github.com/KokeCacao/RedstoneTorch): a Computer Vision toolkit built for competitive classification and segmentation tasks
