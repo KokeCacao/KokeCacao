@@ -61,11 +61,11 @@ Here are some remnants of my past closed-source projects. Since I no longer have
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/5db7183a9e07f1193716cb2b94e5d0e1" target="_blank">📊 Weekly development breakdown</a>
 ```text
-C           🕓 37h8m  ██████████▋░░░░░░░░░░░░░░░ 41.1%
-Other       🕓 26h1m  ███████▍░░░░░░░░░░░░░░░░░░ 28.8%
-TypeScript  🕓 11h11m ███▏░░░░░░░░░░░░░░░░░░░░░░ 12.4%
-Markdown    🕓 7h22m  ██░░░░░░░░░░░░░░░░░░░░░░░░  8.2%
-Python      🕓 3h2m   ▉░░░░░░░░░░░░░░░░░░░░░░░░░  3.4%
+C           🕓 32h49m █████████▌░░░░░░░░░░░░░░░░ 36.9%
+Other       🕓 24h26m ███████▏░░░░░░░░░░░░░░░░░░ 27.5%
+TypeScript  🕓 11h11m ███▎░░░░░░░░░░░░░░░░░░░░░░ 12.6%
+Markdown    🕓 8h6m   ██▎░░░░░░░░░░░░░░░░░░░░░░░  9.1%
+Python      🕓 3h38m  █░░░░░░░░░░░░░░░░░░░░░░░░░  4.1%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
