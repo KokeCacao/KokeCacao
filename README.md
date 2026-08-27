@@ -61,10 +61,11 @@ Here are some remnants of my past closed-source projects. Since I no longer have
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/5db7183a9e07f1193716cb2b94e5d0e1" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Markdown 🕓 2h20m ██████████████████▉░░░░░░░░░░░ 63.1%
-TeX      🕓 49m   ██████▌░░░░░░░░░░░░░░░░░░░░░░░ 22.0%
-Other    🕓 32m   ████▍░░░░░░░░░░░░░░░░░░░░░░░░░ 14.6%
-Bash     🕓 0s    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  0.3%
+Markdown 🕓 4h4m ██████████████████████▍░░░░░░░░ 72.4%
+TeX      🕓 49m  ████▍░░░░░░░░░░░░░░░░░░░░░░░░░░ 14.5%
+Other    🕓 32m  ██▉░░░░░░░░░░░░░░░░░░░░░░░░░░░░  9.6%
+Bash     🕓 8m   ▊░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  2.5%
+BibTeX   🕓 3m   ▎░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  1.0%
 ```
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
