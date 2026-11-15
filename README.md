@@ -61,9 +61,9 @@ Here are some remnants of my past closed-source projects. Since I no longer have
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/5db7183a9e07f1193716cb2b94e5d0e1" target="_blank">📊 Weekly development breakdown</a>
 ```text
-Markdown   🕓 7h4m  ███████████▎░░░░░░░░░░░░░░░░ 40.5%
-Python     🕓 3h27m █████▌░░░░░░░░░░░░░░░░░░░░░░ 19.8%
-JavaScript 🕓 2h10m ███▍░░░░░░░░░░░░░░░░░░░░░░░░ 12.4%
+Markdown   🕓 7h4m  ███████████▍░░░░░░░░░░░░░░░░ 40.7%
+Python     🕓 3h27m █████▌░░░░░░░░░░░░░░░░░░░░░░ 19.9%
+JavaScript 🕓 2h10m ███▍░░░░░░░░░░░░░░░░░░░░░░░░ 12.5%
 HTML       🕓 1h43m ██▊░░░░░░░░░░░░░░░░░░░░░░░░░  9.9%
 Text       🕓 1h8m  █▊░░░░░░░░░░░░░░░░░░░░░░░░░░  6.5%
 ```
